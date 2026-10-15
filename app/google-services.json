@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1056594843447",
+    "project_id": "morpheusfitness-f1650",
+    "storage_bucket": "morpheusfitness-f1650.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056594843447:android:915d7604339cf03c39ecb2",
+        "android_client_info": {
+          "package_name": "com.example.morpheusfitness"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrFDOHRA7U913Z45CH-B-CnK9V-dKRZw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
